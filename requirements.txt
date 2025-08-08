@@ -1,0 +1,10 @@
+tensorflow==2.10.1
+opencv-python==4.9.0.80
+fastapi==0.110.0
+uvicorn==0.29.0
+streamlit==1.22.0        # ✅ Compatible with tensorflow
+pillow==10.3.0
+requests==2.31.0
+numpy==1.24.4
+protobuf==3.19.6         # ✅ Compatible with both
+python-multipart==0.0.9
